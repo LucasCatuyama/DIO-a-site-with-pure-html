@@ -1,6 +1,6 @@
 [![Language: English](https://img.shields.io/badge/Language-English-green.svg)](README-en.md)
 
-LEIA EM PORTUGUÊS 👉 [README_pt-br.md](https://github.com/LucasCatuyama/DIO-a-site-with-pure-html/blob/main/README-pt-br)
+LEIA EM PORTUGUÊS 👉 [README-pt-br.md](https://github.com/LucasCatuyama/DIO-a-site-with-pure-html/blob/main/README-pt-br)
 
 # About this project
 This is the first front-end project developed during the "HTML Web Developer" training offered by DIO, taught by @diogomainardes.
