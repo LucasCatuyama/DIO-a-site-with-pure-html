@@ -13,7 +13,7 @@ The primary objective of this project is to create a website with a straightforw
 
 ## Final Result
 ![screenshot](https://github.com/LucasCatuyama/DIO-a-site-with-pure-html/blob/main/dio-a-site-with-pure-html.png)
-Check it on Vercel 👉 https://alura-my-portfolio-page-from-scratch.vercel.app/
+Check it on Vercel 👉 https://dio-a-site-with-pure-html.vercel.app/
 
 ## List of courses completed for this project:
 1. Understanding Client x Server Communication
